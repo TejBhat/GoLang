@@ -1,2 +1,2 @@
 # GoLang
-learning GoLang!!
+Learning GoLang!!
