@@ -7,7 +7,7 @@ func changeNum(num int) {
 	fmt.Println("In changeNum", num)
 }
 
-func maim()  {
+func main()  {
 	num:= 5
 	changeNum(num)
 	fmt.Println("After changeNum:", num)
