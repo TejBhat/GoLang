@@ -1,2 +1,2 @@
 # GoLang
-Learning GoLang!!
+Learning GoLang Basics!!
